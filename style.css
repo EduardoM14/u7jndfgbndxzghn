@@ -26,18 +26,21 @@ h1{
 }
 .subheader {
     font-size: 30px;
+    margin: 16px 0px 24px;
 }
 button{
     background-color: #05c7cf;
     color: white;
     border: none;
+    padding: 8px 16px;
+    font-size: 24px;
+    cursor: pointer;
+
 }
 a{
     color: #000;
     font-size: 24px;
     font-weight: 700;
-    padding: 8px 16px;
-    font-size: 24px;
 }
 .logo{
   width:300px ;
